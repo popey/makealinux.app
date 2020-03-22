@@ -1,0 +1,61 @@
+baseURL = "https://makealinux.app/"
+languageCode = "en-gb"
+title = "Make a Linux App"
+theme = "vex-hugo"
+
+[author]
+    name = "Alan Pope"
+
+
+#################################### Plugins ##########################################
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "https://fonts.googleapis.com/css?family=Droid+Serif:400i|Source+Sans+Pro:300,400,600,700"
+  [[params.plugins.css]]
+  URL = "https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,600,700"
+  [[params.plugins.css]]
+  URL = "css/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "css/themefisher-fonts.css"
+  [[params.plugins.css]]
+  URL = "css/owl.carousel.css"
+  [[params.plugins.css]]
+  URL = "css/magnific-popup.css"
+  [[params.plugins.css]]
+  URL = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/jquery-2.1.1.min.js"
+  [[params.plugins.js]]
+  URL = "js/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "js/owl.carousel.min.js"
+  [[params.plugins.js]]
+  URL = "js/jquery.magnific-popup.min.js"
+  [[params.plugins.js]]
+  URL = "https://cdn.snipcart.com/themes/v3.0.3/default/snipcart.js"
+
+###################################### Navigation ######################################
+
+
+########################### Default parameters ##########################
+[params]
+logo = ""
+home = ""
+# Meta data
+description = "Make a Linux app. Stop making distributions."
+author = "Alan Pope"
+# Google Analitycs
+google_analitycs_id = "Your ID"
+# snipcart public api key
+#snipcart_api = ""
+# copyright
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+# Preloader
+[params.preloader]
+enable = true
+preloader = "" # use .png , .svg or .gif format
