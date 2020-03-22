@@ -118,13 +118,13 @@ aboutProduct:
 
 
 #################################### Gallery ########################
-gallery:
-  enable : true
-  title : "Checkout some Linux applications"
-  # Set the image directory to use as base
-  directory : "images/showcase"
-  # Set the images to show in the gallery
-  images : ["elementary-vocal.png", "kde-krita.webp", "electron-riot.webp", "gnome-sudoku.webp"]
+# gallery:
+#   enable : true
+#   title : "Checkout some Linux applications"
+#   # Set the image directory to use as base
+#   directory : "images/showcase"
+#   # Set the images to show in the gallery
+#   images : ["elementary-vocal.png", "kde-krita.webp", "electron-riot.webp", "gnome-sudoku.webp"]
 
 
 
