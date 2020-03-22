@@ -64,6 +64,16 @@ promo:
             We can always do with new applications."
 
 
+#################################### Distros ########################
+gallery:
+  enable : true
+  title : "There are already plenty of great Linux distributions"
+  # Set the image directory to use as base
+  directory : "images/distros"
+  # Set the images to show in the gallery
+  images: ["Distro_Logo_ArchLinux.svg", "Distro_Logo_CentOS.svg", "Distro_Logo_Debian.svg", "Distro_Logo_Elementary.svg", "Distro_Logo_KDE+Neon.svg", "Distro_Logo_Kubuntu.svg", "Distro_Logo_LinuxMint.svg", "Distro_Logo_Manjaro.svg", "Distro_Logo_OpenSUSE.svg", "Distro_Logo_Ubuntu.svg", "fedora.png", "red-hat-2019-primary-stacked.svg" ]
+
+
 ############################# About Product #######################
 aboutProduct:
   enable : true
@@ -149,12 +159,3 @@ cta:
 #       designation : "Indie developer, foocorp"
 #       image : "images/avatar.png"
 #       content : "The community is wonderful..."
-
-#################################### Distros ########################
-gallery:
-  enable : true
-  title : "There are already plenty of great Linux distributions"
-  # Set the image directory to use as base
-  directory : "images/distros"
-  # Set the images to show in the gallery
-  images: ["Distro_Logo_ArchLinux.svg", "Distro_Logo_CentOS.svg", "Distro_Logo_Debian.svg", "Distro_Logo_Elementary.svg", "Distro_Logo_KDE+Neon.svg", "Distro_Logo_Kubuntu.svg", "Distro_Logo_LinuxMint.svg", "Distro_Logo_Manjaro.svg", "Distro_Logo_OpenSUSE.svg", "Distro_Logo_Ubuntu.svg", "fedora.png", "red-hat-2019-primary-stacked.svg" ]
