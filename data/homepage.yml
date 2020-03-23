@@ -143,10 +143,10 @@ cta:
 #   title : "Developer opinion"
 #   testimonialItem:
 #     # testimonial item loop
-#     - name : "Jonathon"
-#       designation : "Project Lead, Someproject"
-#       image : "images/avatar.png"
-#       content : "Developing KDE applications made me a better person..."
+#     - name : "Neil McGovern"
+#       designation : "Executive Director of the GNOME Foundation"
+#       image : "images/avatars/neil_mcgovern.png"
+#       content : "We need to ensure a thriving app ecosystem to bring Linux to the masses. Our dream of an open desktop, accessible to all can only be achieved by enabling everyone to develop for Linux."
       
 #     # testimonial item loop
 #     - name : "Daniel Foré"
