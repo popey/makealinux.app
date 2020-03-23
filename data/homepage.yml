@@ -99,8 +99,8 @@ aboutProduct:
 
     # about product item loop
     - image : "images/elementary-code.png"
-      title : "elementary"
-      content : "elementary is a fast, open, and privacy-respecting replacement for Windows and macOS. The developers have built a desktop and ecosystem in which developers build applications. Their developer guide recommends Vala and Gtk for application development."
+      title : "elementary OS"
+      content : "elementary OS is a fast, open, and privacy-respecting replacement for Windows and macOS. The developers have built a desktop and ecosystem in which developers build applications. Their developer guide recommends Vala and Gtk for application development."
       button:
         enable : true
         label : "elementary OS Developer Guide"
