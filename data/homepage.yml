@@ -16,7 +16,7 @@ features:
     # feature item loop
   - icon : "tf-ion-ios-alarm-outline"
     title : "Scratch an Itch"
-    content : "Ever had an idea for a personal application you personally need? You may find others have a similar desire for your application idea. Scratch that itch."
+    content : "Ever had an idea for an application you personally need? You may find others have a similar desire for your application idea. Scratch that itch."
     
     # feature item loop
   - icon : "tf-ion-ios-bell-outline"
