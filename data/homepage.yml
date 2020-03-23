@@ -149,10 +149,10 @@ cta:
 #       content : "Developing KDE applications made me a better person..."
       
 #     # testimonial item loop
-#     - name : "Daniel"
-#       designation : "CEO, Somecorp"
-#       image : "images/avatar.png"
-#       content : "I can express myself in code..."
+#     - name : "Daniel Foré"
+#       designation : "Founder, elementary"
+#       image : "images/avatars/daniel_fore.jpg"
+#       content : "There’s a unique opportunity with desktop Linux to not only build great apps, but to help shape platform APIs and influence the overall direction of the desktop you’re publishing on"
       
 #     # testimonial item loop
 #     - name : "Alex"
