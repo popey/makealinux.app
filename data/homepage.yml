@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Make Apps for Linux"
-  content : "Desktop Linux users have a healthy appetite for new software. Linux app stores and repositories lack software compared to the proprietary counterparts. Technical enthusiasts should direct their passion and creativity to creating fresh applications for Linux users. Too often they fall into the trap of creating more Linux distributions. We don't need more Linux distributions. Stop making Linux distributions, make applications instead."
+  content : "Desktop and mobile Linux users have a healthy appetite for new software. Linux app stores and repositories lack software compared to the proprietary counterparts. Technical enthusiasts should direct their passion and creativity to creating fresh applications for Linux users. Too often they fall into the trap of creating more Linux distributions. We don't need more Linux distributions. Stop making Linux distributions, make applications instead."
   image : "images/vscodium-akira.png"
 
 ############################# Feature ############################
@@ -115,6 +115,14 @@ aboutProduct:
         label : "Electron Documentation"
         link : "https://www.electronjs.org/docs"
 
+    # about product item loop
+    - image : "images/ubuntu-touch.png"
+      title : "Ubuntu Touch"
+      content : "Ubuntu Touch is an open source operating system designed to run on a variety of devices from phones to tablets and PCs. Native Ubuntu Touch applications are made using QML or HTML with their behavior defined in JavaScript, C++, Python, Rust or Go."
+      button:
+        enable : true
+        label : "Ubuntu Touch Documentation"
+        link : "https://docs.ubports.com/en/latest/appdev/index.html"
 
 
 #################################### Gallery ########################
@@ -155,7 +163,7 @@ cta:
 #       content : "There’s a unique opportunity with desktop Linux to not only build great apps, but to help shape platform APIs and influence the overall direction of the desktop you’re publishing on"
       
 #     # testimonial item loop
-#     - name : "Alex"
-#       designation : "Indie developer, foocorp"
-#       image : "images/avatar.png"
-#       content : "The community is wonderful..."
+#     - name : "Aleix Pol"
+#       designation : "President of the KDE e.V. and hacker"
+#       image : "images/aleix_pol.png"
+#       content : "To make Linux the operating system we all want, we need great apps. Join us, you will find the tools to create everything you ever imagined!"
