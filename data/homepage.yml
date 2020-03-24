@@ -167,3 +167,9 @@ testimonial:
       image : "images/avatars/daniel_fore.jpg"
       content : "There’s a unique opportunity with desktop Linux to not only build great apps, but to help shape platform APIs and influence the overall direction of the desktop you’re publishing on."
       
+    # testimonial item loop
+    - name : "Jan Sprinz"
+      designation : "Member of the Board of the UBports Foundation"
+      image : "images/avatars/jan_sprinz.jpg"
+      content : "Working on Linux apps is a completely different experience from developing for a closed ecosystem. Though we're technically competitors, in the end, we're all collaborating on the same bigger vision."
+      
