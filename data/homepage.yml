@@ -14,32 +14,31 @@ features:
   # feature at the left of the image
   leftSide:
     # feature item loop
-  - icon : "tf-ion-ios-alarm-outline"
+  - icon : "tf-ion-ios-information-outline"
     title : "Scratch an Itch"
-    content : "Ever had an idea for an application you personally need? You may find others have a similar desire for your application idea. Scratch that itch."
+    content : "Ever had an idea for an application you personally need? You may find others have a similar desire for your application idea. Scratch that itch."  
+
+    # feature item loop
+  - icon : "tf-ion-android-apps"
+    title : "Broaden the ecosystem"
+    content : "New applications can inspire new developers on Linux. Building applications in the open allows developers even newer than yourself to learn and get started. Help build the next Linux app generation."
     
     # feature item loop
-  - icon : "tf-ion-ios-bell-outline"
-    title : "Learn new skills"
-    content : "Developing applications is a sought-after skill. There are many free training resources to help you learn to develop software. Level up your résumé!"
-    
-    # feature item loop
-  - icon : "tf-ion-ios-cart-outline"
+  - icon : "tf-ion-paintbrush"
     title : "Be creative"
     content : "Developing applications is a naturally creative endeavour. The sense of fulfilment gained when completing a project can be very rewarding. Exercise that half of your brain."
-
 
   # feature at the right of the image
   rightSide:
     # feature item loop
-  - icon : "tf-ion-ios-alarm-outline"
+  - icon : "tf-ion-ios-chatboxes-outline"
     title : "Collaborate"
     content : "Building applications fosters communities. Linux communities often want to help developers succeed. Make something people want, and build a group of fans and contributors around it."
 
     # feature item loop
-  - icon : "tf-ion-ios-bell-outline"
-    title : "Broaden the ecosystem"
-    content : "New applications can inspire new developers on Linux. Building applications in the open allows developers even newer than yourself to learn and get started. Help build the next Linux app generation."
+  - icon : "tf-ion-bowtie"
+    title : "Learn new skills"
+    content : "Developing applications is a sought-after skill. There are many free training resources to help you learn to develop software. Level up your résumé!"
 
     # feature item loop
   - icon : "tf-ion-ios-cart-outline"
@@ -146,24 +145,25 @@ cta:
 
 
 ############################## Testimonial ##########################
-# testimonial:
-#   enable : true
-#   title : "Developer opinion"
-#   testimonialItem:
-#     # testimonial item loop
-#     - name : "Neil McGovern"
-#       designation : "Executive Director of the GNOME Foundation"
-#       image : "images/avatars/neil_mcgovern.png"
-#       content : "We need to ensure a thriving app ecosystem to bring Linux to the masses. Our dream of an open desktop, accessible to all can only be achieved by enabling everyone to develop for Linux."
+testimonial:
+  enable : true
+  title : "Developer opinion"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Neil McGovern"
+      designation : "Executive Director of the GNOME Foundation"
+      image : "images/avatars/neil_mcgovern.jpg"
+      content : "We need to ensure a thriving app ecosystem to bring Linux to the masses. Our dream of an open desktop, accessible to all can only be achieved by enabling everyone to develop for Linux."
       
-#     # testimonial item loop
-#     - name : "Daniel Foré"
-#       designation : "Founder, elementary"
-#       image : "images/avatars/daniel_fore.jpg"
-#       content : "There’s a unique opportunity with desktop Linux to not only build great apps, but to help shape platform APIs and influence the overall direction of the desktop you’re publishing on"
+    # testimonial item loop
+    - name : "Aleix Pol"
+      designation : "President of the KDE e.V. and hacker"
+      image : "images/avatars/aleix_pol.jpg"
+      content : "To make Linux the operating system we all want, we need great apps. Join us, you will find the tools to create everything you ever imagined!"
+
+    # testimonial item loop
+    - name : "Daniel Foré"
+      designation : "Founder, elementary"
+      image : "images/avatars/daniel_fore.jpg"
+      content : "There’s a unique opportunity with desktop Linux to not only build great apps, but to help shape platform APIs and influence the overall direction of the desktop you’re publishing on."
       
-#     # testimonial item loop
-#     - name : "Aleix Pol"
-#       designation : "President of the KDE e.V. and hacker"
-#       image : "images/aleix_pol.png"
-#       content : "To make Linux the operating system we all want, we need great apps. Join us, you will find the tools to create everything you ever imagined!"
