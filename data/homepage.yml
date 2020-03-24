@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "Make Apps for Linux"
-  content : "Desktop and mobile Linux users have a healthy appetite for new software. Linux app stores and repositories lack software compared to the proprietary counterparts. Technical enthusiasts should direct their passion and creativity to creating fresh applications for Linux users. Too often they fall into the trap of creating more Linux distributions. We don't need more Linux distributions. Stop making Linux distributions, make applications instead."
+  content : "Desktop and mobile Linux users have a healthy appetite for new software. Linux app stores and repositories lack applications compared to their proprietary counterparts. Technical enthusiasts should direct their passion and creativity to creating fresh apps for Linux users. Too often they fall into the trap of creating more Linux distributions. We don't need more Linux distributions. Stop making Linux distributions, make applications instead."
   image : "images/vscodium-akira.png"
 
 ############################# Feature ############################
