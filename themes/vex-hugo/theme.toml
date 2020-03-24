@@ -1,0 +1,18 @@
+# theme.toml for the Vex Hugo theme
+
+name = "Vex"
+license = "CC-BY-3.0"
+licenselink = "https://github.com/themefisher/vex-hugo/blob/master/LICENSE"
+description = "Vex by Themefisher ported to Hugo"
+homepage = "https://gethugothemes.com/products/vex-hugo-theme/"
+tags = ["onepage", "bootstrap", "ecommerce", "single product", "product", "themefisher"]
+features = ["onepage", "product"]
+min_version = "0.58.0"
+
+[author]
+  name = "Themefisher"
+  homepage = "https://themefisher.com/"
+
+[original]
+  name = "Vex"
+  homepage = "https://themefisher.com/products/vex-bootstrap4-product-landing-page-website-template/"

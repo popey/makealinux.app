@@ -1,0 +1,36 @@
+{{- if .Site.Data.homepage.features.enable }}
+{{- with .Site.Data.homepage.features }}
+<section class="section" id="feature">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="heading">
+          <h2>{{ .title | markdownify }}</h2>
+        </div>
+      </div>
+      <div class="col-md-4">
+        {{ range .leftSide }}
+        <div class="mb-40 text-center text-md-left">
+          <i class="d-inlin-block h2 mb-10 {{ .icon }}"></i>
+          <h4 class="font-weight-bold mb-2">{{ .title | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+        {{ end }}
+      </div>
+      <div class="col-md-4 text-center align-self-center mb-4 mb-md-0">
+        <img class="img-fluid" src="{{ .image | absURL }}" alt="">
+      </div>
+      <div class="col-md-4">
+          {{ range .rightSide }}
+        <div class="mb-40 text-center text-md-left">
+          <i class="d-inlin-block h2 mb-10 {{ .icon }}"></i>
+          <h4 class="font-weight-bold mb-2">{{ .title | markdownify }}</h4>
+          <p>{{ .content | markdownify }}</p>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div><!-- .container close -->
+</section>
+{{- end }}
+{{- end }}
