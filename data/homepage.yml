@@ -2,7 +2,14 @@
 banner:
   enable : true
   title : "Make Apps for Linux"
-  content : "Desktop and mobile Linux users have a healthy appetite for new software. Linux app stores and repositories lack applications compared to their proprietary counterparts. Technical enthusiasts should direct their passion and creativity to creating fresh apps for Linux users. Too often they fall into the trap of creating more Linux distributions. We don't need more Linux distributions. Stop making Linux distributions, make applications instead."
+  content : "Desktop and mobile Linux users have a healthy appetite for new software. Linux app stores and repositories 
+            lack applications compared to their proprietary counterparts. 
+          
+
+            Technical enthusiasts are encouraged to direct their passion and creativity towards creating fresh apps for Linux users. 
+
+
+            Too often they fall into the trap of creating more Linux distributions. We don't need more Linux distributions. Stop making Linux distributions, make applications instead."
   image : "images/vscodium-akira.png"
 
 ############################# Feature ############################
@@ -50,17 +57,36 @@ features:
 promo:
   enable : true
   image : "images/distro-timeline.png"
-  title : "Stop creating new Linux distributions"
-  content : "Making new Linux distributions is fun, technically challenging and personally rewarding. 
-            In general though it doesn't move the needle on getting new desktop users onto away from proprietary platforms.
+  title : "Target all the Linux distributions"
+  content : "Unlike other platforms, Linux is a very diverse target. There are hundreds of Linux 
+            distributions, some more popular than others. Once published though, applications can generally work 
+            everywhere.
+
+
+            There are well documented software packaging and distribution systems which enable developers to get their 
+            applications into the hands of users.
+
+
+            Each developer framework and Linux distribution will have their own recommended route to users. When you're
+            ready to share your creation, the development documentation will signpost their suggested packaging guides."
+
+
+
+############################# promo ############################
+# promo:
+#   enable : false
+#   image : "images/distro-timeline.png"
+#   title : "Stop creating new Linux distributions"
+#   content : "Making new Linux distributions is fun, technically challenging and personally rewarding. 
+#             In general though it doesn't move the needle on getting new desktop users onto away from proprietary platforms.
             
 
-            By all means make new distributions and spins, but consider keeping them to yourself.
-            Use your technical enthusiasm to build new applications rather than yet another distro.
+#             By all means make new distributions and spins, but consider keeping them to yourself.
+#             Use your technical enthusiasm to build new applications rather than yet another distro.
 
 
-            There are enough Linux distributions now, the world doesn't really need more.
-            We can always do with new applications."
+#             There are enough Linux distributions now, the world doesn't really need more.
+#             We can always do with new applications."
 
 
 #################################### Distros ########################
