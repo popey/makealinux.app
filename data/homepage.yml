@@ -224,12 +224,12 @@ aboutProduct2:
 
     # about product item loop
     - image : "images/packaging/obs.png"
-      title : "openSUSE Build Service"
+      title : "Open Build Service"
       content : "The openSUSE Build Service is the public instance of the Open Build Service (OBS) used for development of the openSUSE distribution and to offer packages from same source for Fedora, Debian, Ubuntu, SUSE Linux Enterprise and other distributions."
       button:
         enable : true
         label : "openSUSE Build Service Help"
-        link : "https://openbuildservice.org/help/"
+        link : "https://en.opensuse.org/Portal:Packaging/"
 
     # about product item loop
     - image : "images/packaging/snapcraft.png"
