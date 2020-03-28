@@ -229,7 +229,7 @@ aboutProduct2:
       button:
         enable : true
         label : "openSUSE Build Service Help"
-        link : "https://en.opensuse.org/Portal:Packaging/"
+        link : "https://en.opensuse.org/Portal:Packaging"
 
     # about product item loop
     - image : "images/packaging/snapcraft.png"
