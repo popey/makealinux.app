@@ -207,11 +207,11 @@ aboutProduct2:
     # about product item loop
     - image : "images/packaging/appcenter.png"
       title : "AppCenter"
-      content : "Publish and monetize your app on AppCenter, the open, pay-what-you-want app store for indie developers. Publish without distrupting your workflow—the AppCenter Dashboard integrates with GitHub for releases and issue tracking."
+      content : "Publish and monetize your app on AppCenter, the open, pay-what-you-want app store and build service for indie developers. Publish without distrupting your workflow—the AppCenter Dashboard integrates with GitHub for releases and issue tracking."
       button:
         enable : true
-        label : "AppImage Packaging Guide"
-        link : "https://docs.appimage.org/packaging-guide/index.html"
+        label : "AppCenter Dashboard"
+        link : "https://developer.elementary.io"
 
     # about product item loop
     - image : "images/packaging/appimage.png"
