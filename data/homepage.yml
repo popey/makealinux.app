@@ -107,7 +107,7 @@ aboutProduct:
     # about product item loop
     - image : "images/gnome-builder.png"
       title : "GNOME"
-      content : "The GNOME project builds the popular GNOME Shell desktop, and enables development based around Gjs and Gtk. Popular programming languages may be used with Gtk, including Python, C, C++, Rust, and even Javascript."
+      content : "The GNOME project builds the popular GNOME Shell desktop, and enables development based around Gjs and Gtk. Popular programming languages may be used with Gtk, including Python, C, C++, Rust, and even Javascript. To get started, you can use the GNOME Builder, a tool used for making GNOME apps."
       button:
         enable : true
         label : "GNOME Developer Center"
