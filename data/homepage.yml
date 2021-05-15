@@ -120,7 +120,7 @@ aboutProduct:
       button:
         enable : true
         label : "KDE Frameworks Getting Started"
-        link : "https://developer.kde.org/docs"
+        link : "https://develop.kde.org/docs"
 
     # about product item loop
     - image : "images/elementary-code.png"
