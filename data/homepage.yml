@@ -143,7 +143,7 @@ aboutProduct:
     # about product item loop
     - image : "images/fyne-code.png"
       title : "Fyne"
-      content : "Fyne is a rapidly expanding cross-platform toolkit for the Go language. Apps run on desktop and mobile operating systems, requiring no dependencies beyond an up to date graphics driver. Fyne also underpins the FyneDesk project for a Material Design desktop experience."
+      content : "Fyne is a rapidly expanding cross-platform toolkit for the Go language. Apps run on desktop and mobile operating systems, with no runtime dependencies beyond an up to date graphics driver. Fyne also underpins the FyneDesk project for a Material Design desktop experience."
       button:
         enable : true
         label : "Fyne Documentation"
