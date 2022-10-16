@@ -105,6 +105,15 @@ aboutProduct:
   title : "Where to start"
   items:
     # about product item loop
+    - image : "images/kde-kdevelop.png"
+      title : "Qt"
+      content : "Qt is cross-platform software for creating graphical user interfaces as well as cross-platform applications that run on various software and hardware platforms such as Linux, Windows, macOS, Android or embedded systems with little or no change in the underlying codebase while still being a native application with native capabilities and speed."
+      button:
+        enable : true
+        label : "Qt for Linux/X11"
+        link : "https://doc.qt.io/qt-5/linux.html"
+
+    # about product item loop
     - image : "images/gnome-builder.png"
       title : "GNOME"
       content : "The GNOME project builds the popular GNOME Shell desktop, and enables development based around Gjs and Gtk. Popular programming languages may be used with Gtk, including Python, C, C++, Rust, and even Javascript."
