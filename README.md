@@ -1,4 +1,2 @@
-# makealinux.app
-Source for makealinux app website
 
-A work in progress :)
+## Moved to https://github.com/makealinuxapp/makealinuxapp 
